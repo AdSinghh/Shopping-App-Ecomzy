@@ -2,6 +2,12 @@
 
 The Shopping App (Ecomzy), is a simple web application built to understand the concept of store and slices in React.js. It demonstrates the basic functionality of a shopping cart, allowing users to add products, adjust quantities, and calculate the total price. The application utilizes React, HTML, and CSS (Tailwind) to create a responsive and user-friendly interface.
 
+![Screenshot (8)](https://github.com/AdSinghh/Shopping-App-Ecomzy/assets/132607841/832e334f-05af-4a69-8c12-07111e770f8c)
+
+![Screenshot (10)](https://github.com/AdSinghh/Shopping-App-Ecomzy/assets/132607841/36da79b7-59ce-4a59-bbec-b0e13e7017b3)
+
+
+
 ## Features
 
 -   Product Listing: Users can view a list of available products, including their name, price, and an option to add them to the cart.
