@@ -23,13 +23,13 @@ To run the Shopping Cart locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thisisehtesham/ECOMZY.git
+`git clone https://github.com/AdSinghh/Shopping-App-Ecomzy.git`
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd ShoppingAPP
+`cd Shopping-App-Ecomzy`
 
 3. Install the dependencies:
 
