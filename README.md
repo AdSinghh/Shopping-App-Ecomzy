@@ -29,7 +29,7 @@ git clone https://github.com/thisisehtesham/ECOMZY.git
 2. Navigate to the project directory:
 
 ```bash
-cd shopping-cart
+cd ShoppingAPP
 
 3. Install the dependencies:
 
