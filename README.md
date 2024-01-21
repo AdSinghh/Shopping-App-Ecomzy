@@ -53,7 +53,8 @@ If you're new to React or need a refresher, the following resources may be helpf
 
 -   [Create React App](https://create-react-app.dev/docs/getting-started/): Official documentation for creating a new React app using Create React App.
 
--   [Tailwind CSS Official Documentation](https://tailwindcss.com/docs): The official documentation for Tailwind CSS, providing information about the framework's utility classes and configuration options.
+-   [Tailwind CSS Official Documentation](https://tailwindcss.com/docs): The official documentation for Tailwind CSS, providing information about the framework's utility classes and 
+    configuration options.
 
 ## Contribution
 
