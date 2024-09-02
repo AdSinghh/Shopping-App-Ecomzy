@@ -62,7 +62,7 @@ The Shopping Cart project was built during a web development bootcamp as part of
 
 1. Fork the repository.
 
-2. Create a new branch: `git checkout -b my-feature-branch`.
+2. Create a new branch: `git checkout -b my-feature-branch`..
 
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
 
